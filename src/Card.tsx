@@ -8,7 +8,7 @@ const Card = () => {
       <div className="bg-slate-500 rounded-[50%] w-[110px] h-[110px] absolute left-0 right-0 m-auto top-[92px] overflow-hidden border-white border-[6px]">
         <img
           className="w-full "
-          src="../public/images/image-victor.jpg"
+          src="https://github.com/germanp007/frontendmentor-challenge9/blob/main/public/images/image-victor.jpg"
           alt="victor"
         />
       </div>
