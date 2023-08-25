@@ -17,7 +17,7 @@ const App = () => {
       className="bg-Dark-cyan font-Kumbh bg-no-repeat bg-bottom h-screen w-screen flex"
       style={{
         backgroundImage:
-          "url(../public/images/bg-pattern-top.svg), url(/public/images/bg-pattern-bottom.svg)",
+          "url(../public/images/bg-pattern-top.svg), url(../public/images/bg-pattern-bottom.svg)",
         backgroundPosition: `${
           windowWidth > 700
             ? `right 51vw bottom 20vh, left 45vw top 50vh`
