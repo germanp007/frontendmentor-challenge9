@@ -2,13 +2,13 @@ const Card = () => {
   return (
     <section className="h-[380px] w-[332px] m-auto relative">
       <div
-        style={{ backgroundImage: "url(/src/images/bg-pattern-card.svg)" }}
+        style={{ backgroundImage: "url(/public/images/bg-pattern-card.svg)" }}
         className="bg-no-repeat bg-cover w-full h-[148px] rounded-t-2xl"
       ></div>
       <div className="bg-slate-500 rounded-[50%] w-[110px] h-[110px] absolute left-0 right-0 m-auto top-[92px] overflow-hidden border-white border-[6px]">
         <img
           className="w-full "
-          src="/src/images/image-victor.jpg"
+          src="/public/images/image-victor.jpg"
           alt="victor"
         />
       </div>
